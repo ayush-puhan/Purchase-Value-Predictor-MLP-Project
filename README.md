@@ -1,3 +1,4 @@
+![Project Banner](banner.png)
 # Purchase-Value-Predictor-MLP-Project
 
 ## 📌 Problem Statement
